@@ -120,4 +120,4 @@ This command lists all local user accounts on the system, which could be used by
 
 ## Results
 
-![Day 1 - Result Images](<Day 1 - Intro to log analysis/Result day1.png>)
+![Day 1 - Result Images](Images/Screenshot%202025-04-10%20155052.png)
